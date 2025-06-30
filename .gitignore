@@ -1,0 +1,8 @@
+# Backend ignores
+all-in-one-platform/backend/service-account.json
+all-in-one-platform/backend/.env
+
+
+# Frontend ignores
+all-in-one-platform/frontend/firebase-config.json
+all-in-one-platform/frontend/firebase-config.*  # (Optional: Covers variations like firebase-config.js, firebase-config.json)
